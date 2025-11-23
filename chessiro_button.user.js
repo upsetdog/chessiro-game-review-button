@@ -1,10 +1,11 @@
 // ==UserScript==
 // @name         Chessiro Game Review
 // @namespace    http://tampermonkey.net/
-// @version      2025-11-23
+// @version      1.1
 // @description  Redirects the Game Review button to Chessiro and changes its text.
 // @author       upsetdog
 // @match        https://www.chess.com/game/live/*
+// @match        https://www.chess.com/game/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=chess.com
 // @grant        none
 // ==/UserScript==
